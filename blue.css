@@ -1,0 +1,15 @@
+body {
+  background: url("https://www.freevector.com/uploads/vector/preview/18284/DD-Pink-Sparkles-Background-77878-Preview.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.head{
+  color:blue;
+  font-family: "Courier New";
+}
+.font{
+  font-family: "Courier New";
+}
